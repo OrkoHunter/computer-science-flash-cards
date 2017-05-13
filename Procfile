@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn flash_cards:app
